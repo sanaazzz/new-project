@@ -1,4 +1,4 @@
-#new-project
+# new-project
 start
 function totalSupply() external view returns (uint);
     function balanceOf(address account) external view returns (uint);
