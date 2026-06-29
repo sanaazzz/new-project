@@ -6,7 +6,6 @@ function totalSupply() external view returns (uint);
     function allowance(address owner, address spender) external view returns (uint);
     function approve(address spender, uint amount) external returns (bool);
     function transferFrom(
-E
 # Job Board
 
 Platform for finding and posting jobs.
