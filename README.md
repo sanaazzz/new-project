@@ -7,9 +7,7 @@ function totalSupply() external view returns (uint);
     function approve(address spender, uint amount) external returns (bool);
     function transferFrom(
 # Job Board
-
 Platform for finding and posting jobs.
-
 ## Features
 - Job listings
 - Company profiles
