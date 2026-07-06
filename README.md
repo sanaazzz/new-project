@@ -14,12 +14,10 @@ Platform for  and posting jobs.
 - Apply with resume
 - Email notifications
 - Admin panel
-
 ## Tech Stack
 - Django
 - PostgreSQL
 - AWS S3
 - Celery
-
 ## License
 MIT
