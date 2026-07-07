@@ -19,5 +19,4 @@ Platform for  and posting jobs.
 - PostgreSQL
 - AWS S3
 - Celery
-## License
-MIT
+## Licens
