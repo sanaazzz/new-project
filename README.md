@@ -16,7 +16,6 @@ Platformfor  and posting jobs.
 - Admin panel
 ## Tech Stack
 - Django
-- PostgreSQL
 - AWS S3
 - Celery
 ## Licens
