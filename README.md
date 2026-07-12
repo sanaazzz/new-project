@@ -8,6 +8,7 @@ function totalSupply() external view returns (uint);
     function transferFrom(
 # Job Board
 Platformfor  and posting jobs.
+
 ## Features
 - Job listings
 - Company profiles
@@ -15,6 +16,7 @@ Platformfor  and posting jobs.
 - Email notifications
 - Admin panel
 ## Tech Stack
+
 - Django
 - AWS S3
 - Celery
